@@ -13,11 +13,11 @@
 - `App/Model/_base.php` 에서 DB를 연결해줍니다.
 - DB를 연결해주는 부분, Model은 자신의 입맛대로 작성 해주시면 될 것 같습니다.
 
-<http://php.net/manual/en/class.reflectionfunction.php>
-<http://php.net/manual/en/reflectionparameter.gettype.php>
-<https://github.com/laravel/framework/blob/5.3/src/Illuminate/Container/Container.php#L740>
-<https://www.lesstif.com/pages/viewpage.action?pageId=26083754>
-<https://blog.decorus.io/php/2018/07/04/laravel-dependency-injection-container.html>
-<https://wiki.modernpug.org/display/LAR/questions/5506499/answers/5506524>
-<https://laravel.kr/docs/5.7/container#%EC%9D%98%EC%A1%B4%EC%84%B1%20%ED%95%B4%EA%B2%B0>
+<http://php.net/manual/en/class.reflectionfunction.php> 
+<http://php.net/manual/en/reflectionparameter.gettype.php> 
+<https://github.com/laravel/framework/blob/5.3/src/Illuminate/Container/Container.php#L740> 
+<https://www.lesstif.com/pages/viewpage.action?pageId=26083754> 
+<https://blog.decorus.io/php/2018/07/04/laravel-dependency-injection-container.html> 
+<https://wiki.modernpug.org/display/LAR/questions/5506499/answers/5506524> 
+<https://laravel.kr/docs/5.7/container#%EC%9D%98%EC%A1%B4%EC%84%B1%20%ED%95%B4%EA%B2%B0> 
 <http://www.bmlee.com/%EB%A7%88%EC%A0%A0%ED%86%A02-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-dependency-injection/>
